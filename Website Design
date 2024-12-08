@@ -107,25 +107,280 @@
 
     <!-- Recipes Section -->
     <section class="recipes">
+        <!-- Recipe 1 -->
         <div class="recipe-card">
             <img src="https://via.placeholder.com/250" alt="Recipe 1">
             <h3>Easy Pancakes</h3>
             <p>Fluffy pancakes made with simple ingredients.</p>
         </div>
+        <!-- Recipe 2 -->
         <div class="recipe-card">
             <img src="https://via.placeholder.com/250" alt="Recipe 2">
             <h3>Mac and Cheese</h3>
             <p>A cheesy and creamy classic favorite.</p>
         </div>
+        <!-- Recipe 3 -->
         <div class="recipe-card">
             <img src="https://via.placeholder.com/250" alt="Recipe 3">
             <h3>Chicken Wraps</h3>
             <p>Healthy and tasty chicken wraps for lunch.</p>
         </div>
+        <!-- Recipe 4 -->
         <div class="recipe-card">
             <img src="https://via.placeholder.com/250" alt="Recipe 4">
             <h3>Chocolate Chip Cookies</h3>
             <p>Sweet, chewy cookies with a chocolate surprise!</p>
+        </div>
+        <!-- Additional 50 Recipes -->
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 5">
+            <h3>Grilled Cheese Sandwich</h3>
+            <p>Classic grilled cheese sandwich with golden toast.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 6">
+            <h3>Spaghetti Bolognese</h3>
+            <p>A rich and hearty meat sauce over pasta.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 7">
+            <h3>Caesar Salad</h3>
+            <p>A fresh and crunchy salad with Caesar dressing.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 8">
+            <h3>Fruit Smoothie</h3>
+            <p>Sweet and healthy blend of fresh fruits.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 9">
+            <h3>Chicken Nuggets</h3>
+            <p>Crispy chicken nuggets with dipping sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 10">
+            <h3>Veggie Tacos</h3>
+            <p>Delicious tacos loaded with fresh veggies.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 11">
+            <h3>Pasta Primavera</h3>
+            <p>Pasta with colorful veggies in a light sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 12">
+            <h3>Beef Stir Fry</h3>
+            <p>Quick and tasty stir fry with beef and vegetables.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 13">
+            <h3>Egg Salad Sandwich</h3>
+            <p>A creamy egg salad in a soft sandwich.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 14">
+            <h3>Veggie Burger</h3>
+            <p>A hearty veggie patty served with all the toppings.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 15">
+            <h3>Chicken Alfredo</h3>
+            <p>Creamy Alfredo pasta with grilled chicken.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 16">
+            <h3>French Toast</h3>
+            <p>Golden brown French toast with syrup and butter.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 17">
+            <h3>BBQ Chicken</h3>
+            <p>Juicy chicken smothered in BBQ sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 18">
+            <h3>Meatballs</h3>
+            <p>Soft and flavorful meatballs in tomato sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 19">
+            <h3>Chicken Parmesan</h3>
+            <p>Crispy chicken topped with marinara and cheese.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 20">
+            <h3>Beef Tacos</h3>
+            <p>Ground beef tacos with all the toppings.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 21">
+            <h3>Grilled Veggies</h3>
+            <p>Assorted vegetables grilled to perfection.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 22">
+            <h3>Eggplant Parmesan</h3>
+            <p>Breaded eggplant layered with marinara and cheese.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 23">
+            <h3>Vegetable Soup</h3>
+            <p>A warm and hearty vegetable soup.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 24">
+            <h3>Fish Tacos</h3>
+            <p>Grilled fish served in soft taco shells.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 25">
+            <h3>Sweet Potato Fries</h3>
+            <p>Crispy fries made from sweet potatoes.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 26">
+            <h3>Lasagna</h3>
+            <p>Classic lasagna with layers of pasta, cheese, and meat sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 27">
+            <h3>Chicken Soup</h3>
+            <p>Comforting chicken soup with vegetables.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 28">
+            <h3>Garlic Bread</h3>
+            <p>Soft bread with a buttery garlic spread.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 29">
+            <h3>Cheeseburger</h3>
+            <p>Classic cheeseburger with lettuce, tomato, and cheese.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 30">
+            <h3>Shakshuka</h3>
+            <p>Poached eggs in a spiced tomato sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 31">
+            <h3>Nachos</h3>
+            <p>Crispy tortilla chips topped with melted cheese and toppings.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 32">
+            <h3>Chicken Stir Fry</h3>
+            <p>Chicken stir fry with colorful vegetables.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 33">
+            <h3>Fruit Salad</h3>
+            <p>A refreshing mix of fresh fruits.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 34">
+            <h3>Cheese Quesadilla</h3>
+            <p>Simple cheese-filled tortilla grilled to crispy perfection.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 35">
+            <h3>Omelette</h3>
+            <p>Classic omelette with your choice of fillings.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 36">
+            <h3>Cucumber Sandwich</h3>
+            <p>Refreshing cucumber slices on soft bread with cream cheese.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 37">
+            <h3>Pineapple Fried Rice</h3>
+            <p>Stir-fried rice with sweet pineapple chunks.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 38">
+            <h3>Chicken Caesar Wrap</h3>
+            <p>A Caesar salad wrapped in a tortilla with grilled chicken.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 39">
+            <h3>Potato Salad</h3>
+            <p>Classic potato salad with a creamy dressing.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 40">
+            <h3>Hummus</h3>
+            <p>Delicious hummus with pita bread or veggies.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 41">
+            <h3>Turkey Sandwich</h3>
+            <p>Fresh turkey slices with lettuce, tomato, and mayo.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 42">
+            <h3>Chicken Fajitas</h3>
+            <p>Seasoned chicken strips served with peppers and tortillas.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 43">
+            <h3>Egg Drop Soup</h3>
+            <p>A warm, comforting Chinese soup with eggs and broth.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 44">
+            <h3>Pizza Margherita</h3>
+            <p>A simple pizza with fresh mozzarella and basil.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 45">
+            <h3>Beef Burritos</h3>
+            <p>Flavorful beef wrapped in a soft tortilla.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 46">
+            <h3>Chili</h3>
+            <p>Spicy chili with beans and ground beef.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 47">
+            <h3>Fish and Chips</h3>
+            <p>Crispy battered fish served with fries.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 48">
+            <h3>Chicken Pot Pie</h3>
+            <p>Comforting chicken and vegetable stew in a flaky pie crust.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 49">
+            <h3>Grilled Shrimp</h3>
+            <p>Grilled shrimp with a zesty marinade.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 50">
+            <h3>Vegetable Stir Fry</h3>
+            <p>A quick stir fry with your favorite vegetables.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 51">
+            <h3>Chicken Tenders</h3>
+            <p>Crispy breaded chicken tenders with dipping sauces.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 52">
+            <h3>Chocolate Cake</h3>
+            <p>Rich and moist chocolate cake with frosting.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 53">
+            <h3>Steak Frites</h3>
+            <p>Grilled steak served with crispy French fries.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="https://via.placeholder.com/250" alt="Recipe 54">
+            <h3>Eggplant Stir Fry</h3>
+            <p>A savory stir fry with eggplant and other vegetables.</p>
         </div>
     </section>
 
