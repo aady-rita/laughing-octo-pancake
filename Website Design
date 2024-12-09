@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cooking Made Easy: Recipe Finder</title>
+    <title>Cooking Made Easy: Delishio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@
             margin: 0;
         }
         nav {
-            background-color: #333;
+            background-color: #c3d094;
             padding: 10px;
         }
         nav a {
@@ -31,7 +31,7 @@
             font-size: 16px;
         }
         nav a:hover {
-            background-color: #575757;
+            background-color: #e8ba99;
             padding: 5px;
         }
         .search-container {
@@ -52,7 +52,7 @@
             padding: 20px;
         }
         .recipe-card {
-            background-color: white;
+            background-color: #ecd0c2;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             width: 250px;
