@@ -110,6 +110,7 @@
         <!-- Recipe 1 -->
         <div class="recipe-card">
             <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe-500x500.jpg" alt="Fluffy American Pancakes"/>
+            <h1>Fluffy Pancakes</h1>
             <p>Fluffy pancakes made with simple ingredients.</p>
         </div>
         <!-- Recipe 2 -->
@@ -377,7 +378,7 @@
             <p>Grilled steak served with crispy French fries.</p>
         </div>
         <div class="recipe-card">
-            <img src="" alt="Recipe 54">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJVxUuQi8nB0wDtfyme9srlaNrgkKtsCIBrJATPZ6NNpkRslZ:https://cookingwithlei.com/wp-content/uploads/2023/12/chicken-eggplant-stir-fry.jpg&s" alt="Recipe 54">
             <h3>Eggplant Stir Fry</h3>
             <p>A savory stir fry with eggplant and other vegetables.</p>
         </div>
