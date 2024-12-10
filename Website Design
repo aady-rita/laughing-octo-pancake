@@ -78,10 +78,7 @@
         <input type="text" id="search-bar" placeholder="Search for a recipe..." onkeyup="searchRecipes()">
     </div>
 
-    <!-- Recipe Section (Placeholder for now) -->
-    <div id="recipe-list">
-        <p>Search for your favorite recipes using the search bar above.</p>
-    </div>
+    
 
     
 
