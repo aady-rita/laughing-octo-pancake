@@ -83,25 +83,7 @@
         <p>Search for your favorite recipes using the search bar above.</p>
     </div>
 
-    <!-- Footer Section -->
-    <footer>
-        <p>&copy; 2024 Cooking Made Easy. All rights reserved.</p>
-    </footer>
-
-    <script>
-        // JavaScript for Search Bar Functionality
-        function searchRecipes() {
-            const query = document.getElementById('search-bar').value.toLowerCase();
-            const recipes = document.querySelectorAll('#recipe-list p');
-            recipes.forEach(recipe => {
-                if (recipe.textContent.toLowerCase().includes(query)) {
-                    recipe.style.display = 'block';
-                } else {
-                    recipe.style.display = 'none';
-                }
-            });
-        }
-    </script>
+    
 
 </body>
 </html>
