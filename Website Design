@@ -45,6 +45,33 @@
             border: 2px solid #ccc;
             border-radius: 5px;
         }
+        .recipes {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 20px;
+        }
+        .recipe-card {
+            background-color: #ecd0c2;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 250px;
+            margin: 15px;
+            padding: 15px;
+            text-align: center;
+        }
+        .recipe-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .recipe-card h3 {
+            color: #333;
+        }
+        .recipe-card p {
+            color: #555;
+            font-size: 14px;
+        }
         footer {
             background-color: #333;
             color: white;
@@ -66,25 +93,17 @@
 
     <!-- Navigation Bar -->
     <nav>
-        <a href="home.html">Home</a>
-        <a href="categories.html">Categories</a>
-        <a href="favorites.html">Favorites</a>
-        <a href="contact.html">Contact</a>
+        <a href="#">Home</a>
+        <a href="#">Categories</a>
+        <a href="#">Favorites</a>
+        <a href="#">Contact</a>
     </nav>
 
     <!-- Search Section -->
     <div class="search-container">
         <h2>Find Recipes</h2>
-        <input type="text" id="search-bar" placeholder="Search for a recipe..." onkeyup="searchRecipes()">
+        <input type="text" id="search-bar" placeholder="Search for a recipe...">
     </div>
-
-    
-
-    
-
-</body>
-</html>
-
 
     <!-- Recipes Section -->
     <section class="recipes">
