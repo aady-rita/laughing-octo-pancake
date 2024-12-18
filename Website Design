@@ -111,9 +111,9 @@
         <div class="recipe-card">
             <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe-500x500.jpg" alt="Fluffy American Pancakes"/>
             <h1>Fluffy Pancakes</h1>
-            <p>Fluffy pancakes made with simple ingredients.
-                · Flour: This homemade pancake recipe starts with all-purpose flour.
-                1 ½ cups all-purpose flour
+            <p>Fluffy pancakes made with simple ingredients.</p>
+                
+               <p1> 1 ½ cups all-purpose flour
 
                 3 ½ teaspoons baking powder
                 
@@ -131,8 +131,8 @@
 
 Heat a lightly oiled griddle or pan over medium-high heat. 
 Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake; cook until bubbles form and the edges are dry, about 2 to 3 minutes. 
-Flip and cook until browned on the other side. Repeat with remaining batter. 
-            </p>
+Flip and cook until browned on the other side. Repeat with remaining batter. </p1>
+            
         </div>
         <!-- Recipe 2 -->
         <div class="recipe-card">
