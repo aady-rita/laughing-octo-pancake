@@ -199,7 +199,7 @@
             <img src="https://www.dontgobaconmyheart.co.uk/wp-content/uploads/2021/08/creamy-mac-and-cheese.jpg" alt="Recipe 2">
             <h3>Mac and Cheese</h3>
             <div class="popup" onclick="myFunction()">View Recipe
-                <span class="popuptext" id="myPopup"> 
+                <span class="popuptext" id="myPopup1"> 
             <p><b>A cheesy and creamy classic favorite.</b</p>
             <p1>4 c. dried macaroni
                 1 egg
