@@ -119,15 +119,17 @@
         <div class="recipe-card">
             <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe-500x500.jpg" alt="Fluffy American Pancakes"/>
             <h1>Fluffy Pancakes</h1>
-            <div class="popup" onclick="myFunction()">Click me!
-                <span class="popuptext" id="myPopup">Popup text...</span>
-                <script>
-// When the user clicks on <div>, open the popup
-function myFunction() {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
-</script>
+            <div onclick="myFunction()">Click me to toggle the popup!
+                <span id="myPopup">A Simple Popup!</span>
+              </div>
+              
+              <script>
+              // When the user clicks on div, open the popup
+              function myFunction() {
+                var popup = document.getElementById("myPopup");
+                popup.classList.toggle("show");
+              }
+              </script>
 
               </div>
             <p><b>Fluffy pancakes made with simple ingredients.</b></p>
