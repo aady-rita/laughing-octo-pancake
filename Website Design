@@ -222,6 +222,8 @@
         <div class="recipe-card">
             <img src="https://theyummybowl.com/wp-content/uploads/Crispy-Chicken-Wrap-feat-1.jpg" alt="Recipe 3">
             <h3>Chicken Wraps</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Healthy and tasty chicken wraps for lunch.</b></p>
             <p1>Sauce:
 
@@ -262,11 +264,15 @@
                 Spread each tortilla with 1 tablespoon mayonnaise-cucumber sauce, top with a layer of spinach, and arrange about 1/2 cup of the chicken mixture on top.
                 
                 Fold the bottom of each tortilla up about 2 inches, and start rolling from the right side. When wrap is halfway rolled, fold the top of the tortilla down, enclosing the filling, and continue rolling to make a tight, compact cylinder.</p1>
-        </div>
+       </span>
+       </div>
+            </div>
         <!-- Recipe 4 -->
         <div class="recipe-card">
             <img src="https://www.the-girl-who-ate-everything.com/wp-content/uploads/2009/05/big-fat-chocolate-chip-cookie-05-660x825.jpg" alt="Recipe 4">
             <h3>Chocolate Chip Cookies</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Sweet, chewy cookies with a chocolate surprise!</b></p>
             <p1>8 tablespoons of salted butter
                 1/2 cup white sugar (I like to use raw cane sugar with a coarser texture)
@@ -287,11 +293,15 @@
                  They will sink down and turn into these dense, buttery, soft cookies that are the best in all the land. These should stay soft for many days if kept in an airtight container. I also like to freeze them.
             
             </p1>
+      </span>
+      </div>
         </div>
         <!-- Additional 50 Recipes -->
         <div class="recipe-card">
             <img src="https://cdn.loveandlemons.com/wp-content/uploads/2023/01/grilled-cheese.jpg" alt="Recipe 5">
             <h3>Grilled Cheese Sandwich</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Classic grilled cheese sandwich with golden toast.</b></p>
             <p1>2 slices sourdough bread , sliced 1.3–1.5cm thick (0.5 – 0.6″) – Note 1
                 ▢30g/ 2 tbsp SALTED butter , for spreading on bread (or unsalted + pinch of salt)
@@ -303,10 +313,14 @@
                 Cook 3 minutes – Cook for 3 minutes or until the bread is evenly golden and crisp, pressing down lightly with a spatula every now and then. If it's browning too quickly, remove remove from the stove to cool down a bit and lower heat.
                 Flip, 3 minutes – Turn the sandwich over, and cook the other side for 3 minutes or until the bread is golden and the cheese is melted.
                 Devour – Transfer to cutting board. Cut in half in one swift motion. Admire cheese pull. Devour.</p1>
-        </div>
+       </span>
+       </div>
+            </div>
         <div class="recipe-card">
             <img src="https://img.taste.com.au/5qlr1PkR/taste/2016/11/spaghetti-bolognese-106560-1.jpeg" alt="Recipe 6">
             <h3>Spaghetti Bolognese</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A rich and hearty meat sauce over pasta.</b></p>
             <p1>1 1/2 tbsp olive oil
                 ▢2 garlic cloves , minced
@@ -336,10 +350,14 @@
                 Scoop out a mug of pasta cooking water and set aside, then drain the pasta.
                 Add pasta into the bolognese sauce with about 1/2 cup (125 ml) of reserved pasta water over medium heat. Toss gently for 1 1/2 – 2 minutes, or until the spaghetti turns red and the sauce thickens.
                 Divide between bowls. Garnish with parmesan and parsley if desired.</p1>
+        </span>
         </div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.healthyseasonalrecipes.com/wp-content/uploads/2023/05/caesar-salad-dressing-sq-033.jpg" alt="Recipe 7">
             <h3>Caesar Salad</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A fresh and crunchy salad with Caesar dressing.</b></p>
             <p1>3 anchovy fillets
 
@@ -370,10 +388,14 @@
                 Add lemon juice, red wine vinegar, Dijon mustard, egg yolk, and Worcestershire sauce; whisk until smooth and creamy. 
                 Gradually stream in olive oil while whisking constantly. 
                 Season with salt and black pepper.</p1>
+        </span>
         </div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwzcGlK5sr4SOZZmgOmBIO-p3h41Jw-WivoIKRnXGE7rXtEtg:https://www.dinneratthezoo.com/wp-content/uploads/2018/05/frozen-fruit-smoothie-3.jpg&s" alt="Recipe 8">
             <h3>Fruit Smoothie</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Sweet and healthy blend of fresh fruits.</b></p>
             <p1>1 quart strawberries, hulled
 
@@ -387,10 +409,14 @@
                 Combine strawberries, peaches, and banana in a blender; blend until smooth.
 
                 Add ice and pour in juice; blend again to desired consistency.</p1>
-        </div>
+       </span>
+    </div>
+    </div>
         <div class="recipe-card">
             <img src="https://thecleaneatingcouple.com/wp-content/uploads/2023/06/homemade-chicken-nuggets-1.jpg" alt="Recipe 9">
             <h3>Chicken Nuggets</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Crispy chicken nuggets with dipping sauce.</b></p>
             <p1>3 skinless, boneless chicken breasts
 
@@ -412,11 +438,15 @@
                 Dip chicken pieces into the melted butter first, then coat with the bread crumb mixture. Place the well-coated chicken nuggets on a lightly greased cookie sheet in a single layer.
                 
                 Bake nuggets in the preheated oven until browned and chicken is cooked through, about 20 minutes.</p1>
-        </div>
+      </span>
+      </div>
+            </div>
         <div class="recipe-card"
              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg/220px-001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg"           
              <h3>Veggie Tacos</h3>
-            <p><b>Delicious tacos loaded with fresh veggies.</b></p>
+             <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
+             <p><b>Delicious tacos loaded with fresh veggies.</b></p>
             <p1>Extra virgin olive oil
                 1 cup roughly chopped zucchini or summer squash (1 to 2 zucchini or squash, depending on the size)
                 1/2 medium onion, chopped
@@ -436,10 +466,13 @@
 Spread the veggies out in the pan and then stir only occasionally, until they are all lightly browned.
 
 Stir in the chopped tomatoes and oregano, reduce the heat to low. Let gently cook for several minutes while you are preparing the tortillas.</p1>
-        </div>
+</span> </div>       
+</div>
         <div class="recipe-card">
             <img src="https://images.themodernproper.com/billowy-turkey/production/posts/PastaPrimavera_10.jpg?w=1200&h=1200&q=60&fm=jpg&fit=crop&dm=1719193287&s=0104e0b241aea73e5709db128503d749" alt="Recipe 11">
             <h3>Pasta Primavera</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Pasta with colorful veggies in a light sauce.</b></p>
             <p1>10 ounces penne pasta
                 2 tablespoons extra-virgin olive oil, plus more for drizzling
@@ -455,10 +488,13 @@ Stir in the chopped tomatoes and oregano, reduce the heat to low. Let gently coo
                 Bring a large pot of salted water to a boil. Prepare the pasta according to the package instructions, cooking until al dente. Drain and toss with a drizzle of olive oil to prevent sticking.
 Heat the oil in a large, deep skillet over medium heat. Add the garlic, squash, zucchini, asparagus, tomatoes, onion, salt, and several grinds of pepper and sauté for 3 to 4 minutes, or until the vegetables are tender.
 Add the pasta, peas, cheese, lemon juice, and a pinch of red pepper flakes and toss to combine. Stir in the basil and tarragon, if using.Season to taste, garnish with more basil, and serve.</p1>
-        </div>
+</span></div>        
+</div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyQw-uTINjV_Pt9G6y4NaFWs_58zOujkCkya8jV00g3mr8Cp7r:https://www.twopeasandtheirpod.com/wp-content/uploads/2020/03/Beef-Stir-Fry-6.jpg&s" alt="Recipe 12">
             <h3>Beef Stir Fry</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Quick and tasty stir fry with beef and vegetables.</b></p>
             <p1>2 tablespoons vegetable oil
 
@@ -478,10 +514,13 @@ Add the pasta, peas, cheese, lemon juice, and a pinch of red pepper flakes and t
                 
                 2 tablespoons sesame seeds, toasted
                 Heat vegetable oil in a large wok or skillet over medium-high heat; cook and stir beef until browned, 3 to 4 minutes.Move beef to the side of the wok and add broccoli, bell pepper, carrots, green onion, and garlic to the center of the wok. Cook and stir vegetables for 2 minutes.Stir beef into vegetables and season with soy sauce and sesame seeds. Continue to cook and stir until vegetables are tender, about 2 more minutes.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.simplyrecipes.com/thmb/5KEzbHplXxqFntM-jqrI0QdExR4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Easy-Egg-Salad-Sandwich-LEAD-22-8ecbb89abda34a84b649ff4c44bab525.JPG" alt="Recipe 13">
             <h3>Egg Salad Sandwich</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A creamy egg salad in a soft sandwich.</b></p>
             <p1>6 large large hard boiled eggs , peeled
                 ▢3-4 Tablespoons mayonnaise (or Greek yogurt), to taste
@@ -492,10 +531,13 @@ Add the pasta, peas, cheese, lemon juice, and a pinch of red pepper flakes and t
                 Mash the eggs in a bowl. Add mustard, mayonnaise, salt and pepper and mix well. Taste and adjust seasonings as needed.
 Add a spoonful of egg salad mixture in between two slices of bread. This recipe will make about 4 sandwiches.
 Store leftover egg salad in the refrigerator for up to 5 days, depending on the freshness of the eggs.</p1>
-        </div>
+</span></div>        
+</div>
         <div class="recipe-card">
             <img src="https://www.bowlofdelicious.com/wp-content/uploads/2022/09/Black-bean-burgers-square.jpg" alt="Recipe 14">
             <h3>Veggie Burger</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A hearty veggie patty served with all the toppings.</b></p>
             <p1>cooking spray
 
@@ -522,10 +564,13 @@ Store leftover egg salad in the refrigerator for up to 5 days, depending on the 
                 Divide the mixture into four patties and place on the prepared foil.
 
                 Grill on the preheated grill for about 8 minutes on each side.            </p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.recipetineats.com/tachyon/2017/03/One-Pot-Chicken-Alfredo-2.jpg" alt="Recipe 15">
             <h3>Chicken Alfredo</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Creamy Alfredo pasta with grilled chicken.</b></p>
             <p1>2 pounds skinless, boneless chicken breasts, cut into chunks
 
@@ -566,10 +611,13 @@ Place a steamer insert into a saucepan and fill with water to just below the bot
 Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
 
 </p1>
-        </div>
+</span></div>        
+</div>
         <div class="recipe-card">
             <img src="https://thecookiedoughdiaries.com/wp-content/uploads/2022/12/healthy-french-toast-13.jpg" alt="Recipe 16">
             <h3>French Toast</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Golden brown French toast with syrup and butter.</b></p>
             <p1>4 large eggs
                 ▢2/3 cup milk
@@ -584,10 +632,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Cook for a few minutes, until the bottom of the breads starts to get golden brown. Flip and cook on the other side the same. 
                 Remove to a plate. Serve warm with syrup and a sprinkle of powdered sugar.</p1>
 
-        </div>
+       </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJ_cNoHD4Mb2RHB_gFZfgxzy6EGTmxRFWjUhuJx8e9YQ3U5uZ:https://www.skinnytaste.com/wp-content/uploads/2023/07/BBQ-Chicken-8.jpg&s" alt="Recipe 17">
             <h3>BBQ Chicken</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Juicy chicken smothered in BBQ sauce.</b></p>
             <p1>2 tablespoons brown sugar
 
@@ -618,10 +669,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Cook chicken for 20 minutes, turning halfway through. Baste with sauce, then continue to cook, basting every 10 minutes, until chicken is no longer pink at the bone and the juices run clear, 20 to 25 more minutes. An instant-read thermometer inserted near the bone should read at least 165 degrees F (74 degrees C).
                 
                 </p1>
-        </div>
+       </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8pNU8PBJd4mer6Q6VFqmX2rj17CkogUGYn4vf71QpFBWeUgg:https://www.inspiredtaste.net/wp-content/uploads/2024/02/Easy-Italian-Meatballs-Recipe-3.jpg&s" alt="Recipe 18">
             <h3>Meatballs</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Soft and flavorful meatballs in tomato sauce.</b></p>
             <p1>1/2 cup plain breadcrumbs ($0.32)
                 1/2 cup grated Parmesan ($0.88)
@@ -647,10 +701,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Freezing instructions
                 You can freeze the meatballs either cooked or uncooked. I prefer freezing them already cooked so they can go straight from the freezer into a pot of red sauce and then just simmer until heated through. Cooked meatballs should be completely cooled before placing in a gallon-sized freezer bag and transferred to the freezer.
                 To freeze uncooked meatballs, place the raw meatballs on a parchment-lined baking sheet and freeze on the baking sheet until solid (1-2 hours) before transferring to a gallon-sized freezer bag for longer storage. Thaw completely before cooking.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQeq7K3a4ANb_3I47b1h1H84wlmTGlnoKz9_VC3zpPgz-_aKc:www.wrytoasteats.com/wp-content/uploads/2017/01/Skillet-Chicken-Parm-Overhead-111-700x1054.jpg&s" alt="Recipe 19">
             <h3>Chicken Parmesan</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Crispy chicken topped with marinara and cheese.</b></p>
             <p1>Ingredients
                 1 Pound Boneless, Skinless Chicken Breast pounded thin – this is about 2 breasts
@@ -679,10 +736,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Transfer the chicken breasts to a plate, then pour the marinara and cheese mixture on top.
                 Garnish with fresh parsley (if desired) then serve and enjoy!
                 </p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.recipetineats.com/tachyon/2015/09/Mexican-Shredded-Beef-Tacos_5.jpg" alt="Recipe 20">
             <h3>Beef Tacos</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Ground beef tacos with all the toppings.</b></p>
             <p1>1 tablespoon olive oil
                 ▢1 pound lean ground beef
@@ -704,10 +764,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Heat the olive oil in skillet over medium high heat. Add the ground beef and cook until browned, about 5-7 minutes. Drain any fat.
                 Add the chili powder, cumin, dried oregano, garlic powder, salt, pepper, tomato paste and water. Stir to combine and continue cooking over medium-low heat until the sauce has thickened, about 3-5 minutes
                 Serve warm over tortillas with lettuce, tomatoes, cheese and red onions, or your other desired toppings.</p1>
-        </div>
+       </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaCgqMx9TPbGvKUNQyoQAm5U3o6xzBe9DmP2iTmjrHwgBWvQ:https://sprinkledwithbalance.com/wp-content/uploads/2023/06/grilled-vegetable-medley-9.jpg&s" alt="Recipe 21">
             <h3>Grilled Veggies</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Assorted vegetables grilled to perfection.</b></p>
             <p1>1 teaspoon lemon juice
 
@@ -732,10 +795,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Place mushrooms, zucchini, bell pepper, and onion in a deep grill-safe pan and brush with oil mixture.
                 
                 Place the pan on the preheated grill and cook until tender, turning once, 10 to 15 minutes.</p1>
-        </div>
+       </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.honeywhatscooking.com/wp-content/uploads/2020/11/Baked-Eggplant-Parmesan30.jpg" alt="Recipe 22">
             <h3>Eggplant Parmesan</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Breaded eggplant layered with marinara and cheese.</b></p>
             <p1>3 large eggplant, peeled and thinly sliced
 
@@ -759,10 +825,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Bake in the preheated oven until golden brown, about 35 minutes.
 
                 Serve hot and enjoy!            </p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2023/09/Vegetable-Soup-main.jpg" alt="Recipe 23">
             <h3>Vegetable Soup</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A warm and hearty vegetable soup.</b></p>
             <p1>1 (14.5 ounce) can diced tomatoes
 
@@ -787,10 +856,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 1 pinch Creole seasoning, or more to taste
                 
                 Combine tomatoes, chicken broth, tomato juice, carrots, celery, potato, green beans, corn, and water in a large stockpot. Season with salt, pepper, and Creole seasoning. Bring to a boil over medium heat and simmer until vegetables are tender, about 30 minutes.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR66Se0n6pWFyr3I_Fa9Y14VFr8UK8u8kBYHkjJe_5igH6JVtMp:https://thecozyapron.com/wp-content/uploads/2018/03/baja-fish-tacos_thecozyapron_1.jpg&s" alt="Recipe 24">
             <h3>Fish Tacos</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Grilled fish served in soft taco shells.</b></p>
             <p1>¼ cup reduced-fat sour cream
 
@@ -819,10 +891,13 @@ Drain cooked pasta. Scoop into individual serving bowls and pour sauce on top.
                 Heat tortillas in the microwave on high until warm, 20 to 30 seconds. Serve fish in warmed tortillas topped with cabbage slaw, reserved sour cream mixture, and cilantro.
 
             </p1>
+        </span></div>
         </div>
         <div class="recipe-card">
             <img src="https://cdn.loveandlemons.com/wp-content/uploads/2024/01/sweet-potato-fries.jpg" alt="Recipe 25">
             <h3>Sweet Potato Fries</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Crispy fries made from sweet potatoes.</b></p>
             <p1>Preheat the oven to 450°F:
                 For more crispiness, preheat your oven to 500°F.
@@ -842,10 +917,13 @@ Return to the oven and bake for another 5 to 15 minutes, or until they are well 
 Cooking time depends on the temperature of the oven (500°F will need less cooking time than 450°F) and the size and thinness of the sweet potato wedges.
 
 The browner they are, the crispier they will be, but there is a fine line between browned and burnt beyond edibility. Even if they get really dark, they should still be good because of the natural sugars of the sweet potatoes caramelizing. So watch carefully.When ready let the fries cool for 5 minutes before serving.</p1>
-        </div>
+</span></div>        
+</div>
         <div class="recipe-card">
             <img src="https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg" alt="Recipe 26">
             <h3>Lasagna</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Classic lasagna with layers of pasta, cheese, and meat sauce.</b></p>
             <p1>15 oz. ricotta cheese, 2 cups
                 ▢1 large egg
@@ -888,10 +966,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Bake
                 Bake for 35 minutes. Remove cover and bake for 10 more minutes.
                 Remove and garnish with fresh parsley. Let it sit for 15 minutes prior to serving to allow the layers to set.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS31QCDfJW8amwRqJgC7VVC_LCIPOdPxbCESJk2ADTFJ6pyzRI:https://downshiftology.com/wp-content/uploads/2023/10/Chicken-Soup-main-2-500x375.jpg&s" alt="Recipe 27">
             <h3>Chicken Soup</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Comforting chicken soup with vegetables.</b></p>
             <p1>1 (3 pound) whole chicken
 
@@ -910,10 +991,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Strain out vegetables, reserving the stock; rinse the soup pot and return the stock to the pot. Chop vegetables into smaller pieces; return chopped chicken and vegetables to the pot.Warm soup until heated through; season with salt, pepper, and chicken bouillon to taste.Serve and enjoy!
 
             </p1>
+       </span></div> 
         </div>
         <div class="recipe-card">
             <img src="https://therecipecritic.com/wp-content/uploads/2020/02/cheesy_garlic_bread.jpg" alt="Recipe 28">
             <h3>Garlic Bread</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Soft bread with a buttery garlic spread.</b></p>
             <p1>½ cup butter, softened
 
@@ -938,10 +1022,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Cut bread loaf into 1-inch slices and spread garlic mixture over each slice. Place each on a baking sheet. Wrap with additional aluminum foil.
                 
                 Bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.kitchensanctuary.com/wp-content/uploads/2021/05/Double-Cheeseburger-square-FS-42.jpg" alt="Recipe 29">
             <h3>Cheeseburger</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Classic cheeseburger with lettuce, tomato, and cheese.</b></p>
             <p1>Single Cheeseburgers:
                 ▢600 g / 1.2 lb beef mince (ground beef) , at least 20% fat (Note 1 for quality)
@@ -982,10 +1069,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Slather the base of the bun with your sauce of choice. My order of assembly: lettuce, tomato, burger (x 2 for double!), gherkins, onion, sauce on bun lid, jam it on top of the stack.
                 DEVOUR with French Fries on the side.
                 </p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdGfBxPhFo-LA2JGiurlTTGCDJdJQz2arPEKJcz_f8HM6ZShw:https://cdn.loveandlemons.com/wp-content/uploads/2017/01/shakshuka.jpg&s" alt="Recipe 30">
             <h3>Shakshuka</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Poached eggs in a spiced tomato sauce.</b></p>
             <p1>▢2 tablespoons olive oil
                 ▢1 medium onion, diced
@@ -1006,10 +1096,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 
                 Use your large spoon to make small wells in the sauce and crack the eggs into each well. Cook the eggs for 5 to 8 minutes, or until the eggs are done to your liking. You can also cover the pan with a lid to expedite the eggs cooking.
                 Garnish with chopped cilantro and parsley before serving.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/03/Nachos-main-1.jpg" alt="Recipe 31">
             <h3>Nachos</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Crispy tortilla chips topped with melted cheese and toppings.</b></p>
             <p1>5 teaspoons paprika
 
@@ -1072,10 +1165,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Microwave on High until cheese is melted and nachos are warm, 2 to 3 minutes. Top with sour cream, salsa, olives, jalapenos, and green onion as desired.
                 
                 </p1>
-        </div>
+       </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxVZTsravM8svxrgHQX2p3AiK017Se4gvpPfSv-aQRQ7LLq8:https://www.eatyourselfskinny.com/wp-content/uploads/2023/09/firecracker-chicken-stir-fry-11-scaled.jpg&s" alt="Recipe 32">
             <h3>Chicken Stir Fry</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Chicken stir fry with colorful vegetables.</b></p>
             <p1>4 cups water
 
@@ -1118,10 +1214,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Heat 1 tablespoon sesame oil in a wok or large skillet over medium-high heat. Add broccoli, onion, carrots, water chestnuts, and bell pepper; cook and stir until just tender, about 5 minutes. Transfer vegetables into a dish; set aside.
                 
                 Heat remaining 1 tablespoon sesame oil in the same wok or skillet over medium-high heat. Add chicken, reserving marinade, and cook until just browned, about 2 minutes per side; stir in vegetables and reserved marinade. Bring to a boil; cook and stir until chicken is no longer pink in the center and vegetables are tender, 5 to 7 minutes. Serve over rice.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBoSERlJNay1d2od1gmQ6bTPlg6u9e5ZNoPSBEHNsL0C6mG6QM:https://www.simplejoy.com/wp-content/uploads/2021/03/fruit-salad.jpg&s" alt="Recipe 33">
             <h3>Fruit Salad</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A refreshing mix of fresh fruits.</b></p>
             <p1>3.4 ounces instant pistachio pudding mix you can use vanilla if you’d like
                 ▢15 ounces crushed pineapple don’t drain
@@ -1139,10 +1238,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Add Cool Whip and mix well.
                 Fold in the fruit.
                 Cover and refrigerate until ready to serve.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZlDXtOtzCiz8amsP-NRjsJ2rc6vYsIQebwIdsGt2yrlziDPc:https://midwestfoodieblog.com/wp-content/uploads/2022/04/FINAL-cheese-quesadilla-1-3-1200x1800.jpg&s" alt="Recipe 34">
             <h3>Cheese Quesadilla</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Simple cheese-filled tortilla grilled to crispy perfection.</b></p>
             <p1>2 (10 inch) flour tortillas
 
@@ -1150,7 +1252,8 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Place one flour tortilla onto a large microwave-safe plate.
 
                 Sprinkle with Cheddar, then top with remaining tortilla. Microwave on high until cheese is melted, about 1 minute. Slice like a pizza to serve.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.simplyrecipes.com/thmb/LLhiA8KZ7JZ5ZI0g-1bF1eg-gGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__10__HT-Make-an-Omelet-LEAD-HORIZONTAL-17cd2e469c4a4ccbbd1273a7cae6425c.jpg" alt="Recipe 35">
             <h3>Omelette</h3>
