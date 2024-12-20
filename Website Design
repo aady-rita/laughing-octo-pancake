@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -96,7 +96,7 @@
 /* The actual popup */
 .popup .popuptext {
   visibility: hidden;
-  width: 160px;
+  width: 680px;
   background-color: #555;
   color: #fff;
   text-align: center;
@@ -168,6 +168,7 @@
         <div class="recipe-card">
             <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe-500x500.jpg" alt="Fluffy American Pancakes"/>
             <h1>Fluffy Pancakes</h1>
+         
             <div class="popup" onclick="myFunction()">Click me for details
                 <span class="popuptext" id="myPopup"> <p><b>Fluffy pancakes made with simple ingredients.</b></p>
                 
@@ -187,15 +188,9 @@
      Flip and cook until browned on the other side. Repeat with remaining batter. </p1>
                 </span>
             </div>
-        </div>
+            </div>   
+        
            
-              <script>
-              // When the user clicks on div, open the popup
-              function myFunction() {
-                var popup = document.getElementById("myPopup");
-                popup.classList.toggle("show");
-              }
-              </script>
 
               
         <!-- Recipe 2 -->
@@ -1714,5 +1709,12 @@ The browner they are, the crispier they will be, but there is a fine line betwee
     </section>
 
 
+              <script>
+              // When the user clicks on div, open the popup
+              function myFunction() {
+                var popup = document.getElementById("myPopup");
+                popup.classList.toggle("show");
+              }
+              </script>
 </body>
 </html>
