@@ -1257,6 +1257,8 @@ The browner they are, the crispier they will be, but there is a fine line betwee
         <div class="recipe-card">
             <img src="https://www.simplyrecipes.com/thmb/LLhiA8KZ7JZ5ZI0g-1bF1eg-gGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2018__10__HT-Make-an-Omelet-LEAD-HORIZONTAL-17cd2e469c4a4ccbbd1273a7cae6425c.jpg" alt="Recipe 35">
             <h3>Omelette</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Classic omelette with your choice of fillings.</b></p>
             <p1>½ Tablespoon salted butter
                 ▢3 large eggs
@@ -1288,20 +1290,26 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Sprinkle cheese over the top of the omelette.
                 Then, add the toppings on one half of the omelette, and fold the other half over the toppings.
                 Serve immediately.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.southernliving.com/thmb/OxYTR6rSi4hwsPAG-oFXFOvtKuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Southern-Living-Cucumber_Sandwiches_016-2a080ab7db764173894e93ac8bc71ce7.jpg" alt="Recipe 36">
             <h3>Cucumber Sandwich</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Refreshing cucumber slices on soft bread with cream cheese.</b></p>
             <p1>1 Persian cucumber or a roughly 4-inch section cut from a hothouse cucumber
                 2 slices bread, preferably whole wheat
                 2 to 3 tablespoons vegetable or chive cream cheese, or to taste
                 Salt and freshly ground pepper, optional
                 Slice the cucumber lengthwise into long, thin slices. Spread each slice of bread with about a tablespoon of cream cheese. Stack the cucumber up on one side, then sprinkle with salt and pepper (if desired). Place the other slice of bread on top, cream cheese-side down, and slice the sandwich in half. Enjoy.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://veganhuggs.com/wp-content/uploads/2018/10/vegan-pineapple-fried-rice-10-500x375.jpg" alt="Recipe 37">
             <h3>Pineapple Fried Rice</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Stir-fried rice with sweet pineapple chunks.</b></p>
             <p1>2 tablespoons coconut oil or quality vegetable oil, divided
                 2 eggs, beaten with a dash of salt
@@ -1324,10 +1332,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Reduce the heat to medium and add the remaining 2 teaspoons oil to the pan. Pour in the cashews and cook until fragrant, stirring constantly, about 30 seconds. Add the rice to the pan and stir to combine. Cook until the rice is hot, stirring occasionally, about 3 minutes.
                 Pour the contents of the bowl back into the pan and stir to combine, breaking up the scrambled eggs with your spoon. Cook until the contents are warmed through, then remove the pan from heat. Add the tamari and chili garlic sauce, to taste. Squeeze the juice of ½ lime over the dish and stir to combine. Season to taste with salt and set aside.
                 Slice the remaining ½ lime into 4 wedges. Transfer the stir-fry to individual serving bowls and garnish each bowl with a lime wedge and a light sprinkle of cilantro. Serve with bottles of tamari and chili garlic sauce or sriracha on the side, for those who might want to add more to their bowls.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.erinliveswhole.com/wp-content/uploads/2023/04/chicken-caesar-wraps-9.jpg" alt="Recipe 38">
             <h3>Chicken Caesar Wrap</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A Caesar salad wrapped in a tortilla with grilled chicken.</b></p>
             <p1>4 (10-inch) flour tortillas or whole wheat tortillas (burrito size)
                 ▢1/2 cup Caesar salad dressing (see note 1) plus more for serving
@@ -1337,10 +1348,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Instructions 
                 Arrange tortillas on a flat surface. Top each with 2 tablespoons of Caesar dressing. Spread 1 cup shredded lettuce in the middle of each tortilla, then top with 4 ounces cooked chicken and ¼ cup Parmesan cheese.
                 Wrap tightly in plastic wrap or wax paper and refrigerate until serving time. Slice in half to serve, and serve with additional dressing if desired.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYf96xHuimS9JNvaapRcFyqahbXCdMT0UR3QA6tLP0owYbRno:https://www.culinaryhill.com/wp-content/uploads/2022/06/Easy-Potato-Salad-Culinary-Hill-1200x800-1.jpg&s" alt="Recipe 39">
             <h3>Potato Salad</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Classic potato salad with a creamy dressing.</b></p>
             <p1>4 medium potatoes
 
@@ -1363,10 +1377,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. 
                 Remove from hot water; peel and chop. Combine cooked and chopped potatoes and eggs with mayonnaise, celery, relish, garlic, mustard, salt, and pepper in a large bowl. 
                 Gently mix together and serve warm.</p1>
-        </div>
+       </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdjDtgOdsPkQNO0H2M-fbh5vf4e6q7JkgoAvFCoWeQcDpnjDc:https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%252FPhoto%252FRecipes%252F2024-08-hummus%252Fhummus-165&s" alt="Recipe 40">
             <h3>Hummus</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Delicious hummus with pita bread or veggies.</b></p>
             <p1>2 cloves garlic
 
@@ -1384,10 +1401,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Pour garbanzo beans into the blender, reserving about 1 tablespoon for garnish. Add reserved liquid, lemon juice, tahini, and salt to the blender. Blend until creamy and well mixed. 
                 Transfer mixture to a medium serving bowl. Drizzle olive oil and sprinkle pepper over the top. Garnish with reserved garbanzo beans.
             </p1>
+        </span></div>
         </div>
         <div class="recipe-card">
             <img src="https://www.spendwithpennies.com/wp-content/uploads/2023/10/Turkey-Sandwich-SpendWithPennies-4.jpg" alt="Recipe 41">
             <h3>Turkey Sandwich</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Fresh turkey slices with lettuce, tomato, and mayo.</b></p>
             <p1>2 slices whole wheat bread, toasted (Optional)
 
@@ -1415,10 +1435,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 
                
                 </p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHe-xCH4nQcTPaXqZqh0yny7RKz3257X8Oo4LY1HycJ914N0:https://carlsbadcravings.com/wp-content/uploads/2016/08/Chicken-Fajitas-2.jpg&s" alt="Recipe 42">
             <h3>Chicken Fajitas</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Seasoned chicken strips served with peppers and tortillas.</b></p>
             <p1>1 tablespoon chili powder
 
@@ -1459,10 +1482,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 While vegetables are cooking, place tortillas in the oven to warm. At the same time, grill chicken, turning halfway through, until no longer pink in the center and the juices run clear, 2 to 3 minutes per side.
                 
                 To assemble fajitas, fill warmed tortillas with chicken, peppers, and onions.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://onehappybite.com/wp-content/uploads/2024/10/DSC03085-2.jpg" alt="Recipe 43">
             <h3>Egg Drop Soup</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A warm, comforting Chinese soup with eggs and broth.</b></p>
             <p1>1 cup chicken broth
 
@@ -1491,10 +1517,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Serve hot, garnished with fresh chives. Enjoy!
 
             </p1>
+        </span></div>
         </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiQLqwWiHarK2h_mPq-0ISkI-VcLLDaVVk0Y1pGpWmljsUgFW:https://www.cookingclassy.com/wp-content/uploads/2017/08/margherita-pizza-9.jpg&s" alt="Recipe 44">
             <h3>Pizza Margherita</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A simple pizza with fresh mozzarella and basil.</b></p>
             <p1>Ingredients
                 Homemade Pizza Dough:
@@ -1526,10 +1555,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Assemble the Pizza: Sprinkle the pizza peel (if you do not own a pizza peel, you can try using the back of a half sheet pan - but it is tricky!) with a tablespoon of semolina and dusting of all-purpose flour. Gently use both hands to stretch one ball of pizza dough into roughly a 10-inch circle (don’t worry if its not perfectly uniform). If the dough springs back or is too elastic, allow it to rest for an additional five minutes. The edges of the dough can be slightly thicker, but make sure the center of the dough is thin (you should be able to see some light through it if you held it up). Gently transfer the dough onto the semolina and flour dusted pizza peel or baking sheet.
                 Drizzle or brush the dough lightly (using your fingertips) with olive oil (roughly a teaspoon. Using a large spoon, add roughly ½ cup of the tomato sauce onto the pizza dough, leaving a ½-inch or ¾-inch border on all sides. Use the back of the spoon to spread it evenly and thinly. Sprinkle a tablespoon of parmigiano-reggiano cheese onto the pizza sauce. Add half of the cubed mozzarella, distributing it evenly over the entire pizza. Using your hands, tear a few large basil leaves, and sprinkle the basil over the pizza. At this point, I’ll occasionally stretch the sides of the dough out a bit to make it even thinner. Gently slide the pizza from the peel onto the heated baking stone. Bake for 7 to 8 minutes, or until the crust is golden and the cheese is bubbling and caramelized and the edges of the pizza are golden brown. Note: If you're looking for more color, finish the pizza under the low or medium broil setting, but watch it carefully!
                 Remove the pizza carefully from the oven with the pizza peel, transfer to a wooden cutting board or foil, drizzle the top with olive oil, some grated parmigiano-reggiano cheese, and chiffonade of fresh basil. Slice and serve immediately and/or prepare the second pizza.</p1>
-        </div>
+                </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://www.recipetineats.com/tachyon/2015/09/Beef-Burritos_680px_1.jpg" alt="Recipe 45">
             <h3>Beef Burritos</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Flavorful beef wrapped in a soft tortilla.</b></p>
             <p1>Burrito Seasoning:
                 ▢1 tsp each onion powder , dried oregano, salt
@@ -1560,10 +1592,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Fold up the bottom to cover the filling then fold the edges in (video helpful to see how to do this). Roll up tightly, then wrap in foil. Serve as is or heat per below.
                 HEATING: To warm through, pan fry (dry pan) in the foil over medium high heat for a few minutes on each side to slightly crisp and warm the outside. Or for 10+ minutes on a medium low heat if you want to melt the cheese. Or they can be baked at 180C/350F for 20 minutes in the foil – this will warm them all the way through and crisp up the tortilla slightly. If they are straight from the fridge, they will take around 30 minutes to warm through.
                 Burritos are best served with something to dollop/dip - sour cream (or yoghurt) and some sort of chilli sauce are my usual because it's easy. When I'm making more of an effort, I use  Restaurant Style Salsa or Guacamole.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://pinchofyum.com/wp-content/uploads/Sunday-Chili-Square.jpg" alt="Recipe 46">
             <h3>Chili</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Spicy chili with beans and ground beef.</b></p>
             <p1>2 pounds lean ground beef
                 ▢1 onion diced
@@ -1585,10 +1620,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 In a large pot, brown ground beef, onion, jalapeno, and garlic. Drain any fat.
                 Add in remaining ingredients and bring to a boil. Reduce heat and simmer uncovered 45-60 minutes or until chili has reached desired thickness.
                 Top with cheddar cheese, green onions, cilantro or other favorite toppings.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6eP6noAajdn9EDQRQB8sg4nfRbkroM_jWYD_o3WoGvfUTtw:https://cookingwithcocktailrings.com/wp-content/uploads/2023/05/Fish-and-chips-with-tartar-sauce-64-480x270.jpg&s" alt="Recipe 47">
             <h3>Fish and Chips</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Crispy battered fish served with fries.</b></p>
             <p1>1 ½ lbs white fish fillets* , cut into long strips
                 ▢1 cup all-purpose flour , plus more for dredging fish
@@ -1610,10 +1648,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 
                 Rest: Once cooked, remove the fillets from the hot oil and drain on paper towels. You can keep the cooked fish warm in a 200 degree oven while you cook it all, if you want.
                 Serve: Use the same pot of hot oil to make French Fries, or make my Baked French Fries or Air Fryer French Fries. Serve with homemade tartar sauce (it can be made days ahead of time!) and malt vinegar, for dipping.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3m8JyBcTPBax_CFIRFYQAVAYKC5gkNQrzZFBKcrkAKR9BfQ8:https://www.allrecipes.com/thmb/GD9svssJTW4fmgCxbZ94NBtxVsM%3D/1500x0/filters:no_upscale%28%29:max_bytes%28150000%29:strip_icc%28%29/26317-chicken-pot-pie-ix-CD_54224-4x3-74f488b88e4d4a1d848b4a85e5dda9d3.jpg&s" alt="Recipe 48">
             <h3>Chicken Pot Pie</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Comforting chicken and vegetable stew in a flaky pie crust.</b></p>
             <p1>Homemade Pie Crust or All Butter Pie Crust (both recipes make 2 crusts, 1 for bottom and 1 for top)
                 1 pound (450g) skinless boneless chicken breast or thighs, cubed
@@ -1641,10 +1682,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Roll out second half of pie crust dough just as you did the first. Cover the pie with the second crust and trim the extra overhang off the sides. Crimp the pie crust with a fork to seal the edges. With a small sharp knife, slice a few small slits in the top crust to allow steam to escape. Using a pastry brush, brush crust and edges with egg wash.
                 Bake for 32–38 minutes or until the top of the crust is golden brown. After 20 minutes of baking, be sure to cover the edges of the crust with aluminum foil or use a pie crust shield to prevent the edges from getting too brown. (See this post on the best pie baking tools for instructions on how to make a pie crust shield out of foil.)
                 Remove from the oven and cool for at least 10 minutes before serving. Makes amazing leftovers—the filling is so thick on the next day! Reheat as desired. Leftovers keep well in the refrigerator in an airtight container for up to 5 days.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5uirtT_dpuj0frcdWqAj-v7QsB3JY9qK8ZLjY39NL39qN9e4:https://www.spendwithpennies.com/wp-content/uploads/2019/06/Garlic-Grilled-Shrimp-SpendWithPennies-3.jpg&s" alt="Recipe 49">
             <h3>Grilled Shrimp</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Grilled shrimp with a zesty marinade.</b></p>
             <p1>2 tablespoons olive oil
                 2 teaspoons freshly squeezed lemon juice
@@ -1661,10 +1705,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Add the shrimp to the bowl and fold gently to coat the shrimp evenly in the seasoned oil.
                 Place shrimp on the hot grill grates and cook for 3 minutes, or until they have some char. Flip shrimp and cook for another 2 minutes, or just until shrimp are no longer translucent. Take care to not overcook. Smaller shrimp will take less time. 
                 Serve immediately for best texture and flavor, with fresh lemon wedges for squeezing over the top.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxquTbroDFmyVCrBUm0qfEYxK17_Cfr0o3ieH8OxIaOrnY904:https://kristineskitchenblog.com/wp-content/uploads/2024/01/vegetable-stir-fry-22-3.jpg&s" alt="Recipe 50">
             <h3>Vegetable Stir Fry</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A quick stir fry with your favorite vegetables.</b></p>
             <p1>1 tablespoon olive oil
                 ▢1 red bell pepper, sliced
@@ -1686,10 +1733,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Add one tablespoon of olive oil over medium-high heat in a wok or large skillet. Add bell pepper, peas, carrots, mushrooms, broccoli, baby corn, and water chestnuts. Sauté 2-3 minutes until veggies are almost tender.
                 In a small bowl, whisk together soy sauce, garlic, brown sugar, sesame oil, chicken broth, and cornstarch.
                 Pour over veggies and cook until the sauce has thickened. Garnish with chopped green onions and sesame seeds if desired</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="data:image/jpeg;base64,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" alt="Recipe 51">
             <h3>Chicken Tenders</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Crispy breaded chicken tenders with dipping sauces.</b></p>
             <p1>1 1/2 cups panko breadcrumbs (Note 1)
                 ▢Oil spray
@@ -1713,10 +1763,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Sprinkle surface with breadcrumbs, then press down to adhere. Transfer onto baking tray. Marvel at clean fingers, repeat with remaining chicken.
                 Spray lightly with oil, sprinkle with a touch of salt (optional). Bake 15 minutes (medium) or up to 20 minutes if gigantic. Any longer = dried out chicken.
                 Remove from oven and serve immediately, with Sauce of choice (Honey Mustard) and sprinkled with fresh parsley, if desired.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmZXfXv8s5NelhJL5ucc6fk8TVobxQ6LuhZBOQnKQRDY51l8:https://tastesbetterfromscratch.com/wp-content/uploads/2023/04/Hershey-Chocolate-Cake-8-2-500x500.jpg&s" alt="Recipe 52">
             <h3>Chocolate Cake</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Rich and moist chocolate cake with frosting.</b></p>
             <p1>CHOCOLATE CAKE
                 ▢1 ¾ cups all purpose flour or plain flour
@@ -1749,10 +1802,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Let cool for 10 minutes, then turn out onto wire racks to cool completely before frosting.
                 CHOCOLATE BUTTERCREAM FROSTING
                 Melt butter, then whisk in cocoa powder. Alternately add powdered sugar and milk, beating to spreading consistency (add a small amount of additional milk, if needed). Stir in vanilla.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2zdv3AJXWibN3zQJiVWuXQqKlFQXZt_O6cLwbRYLPeVnljfU:https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%252Farchive%252F2f470c0731c648d949fab9bc7548f68a03f68b87&s" alt="Recipe 53">
             <h3>Steak Frites</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>Grilled steak served with crispy French fries.</b></p>
             <p1>Ingredients 
                 1x
@@ -1783,10 +1839,13 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 
                 Once flipped, add in your butter, rosemary and garlic cloves. Baste your steak until fully cooked to your liking (I like medium rare which is around 135°F). Let rest for about 10-13 minutes and slice against the grain.
                 Serve! Transfer your sliced steak to a plate and finish off with your french fries and Horseradish Cream Sauce.</p1>
-        </div>
+        </span></div>
+            </div>
         <div class="recipe-card">
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJVxUuQi8nB0wDtfyme9srlaNrgkKtsCIBrJATPZ6NNpkRslZ:https://cookingwithlei.com/wp-content/uploads/2023/12/chicken-eggplant-stir-fry.jpg&s" alt="Recipe 54">
             <h3>Eggplant Stir Fry</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A savory stir fry with eggplant and other vegetables.</b></p>
             <p1>Ingredients
 
@@ -1813,7 +1872,8 @@ The browner they are, the crispier they will be, but there is a fine line betwee
                 Add sauce and cooked eggplant to skillet, and cook - stirring - for one minute to allow sauce to thicken.
                 Decorate with green onion slices and sesame seeds, and serve with rice or noodles if desired.
                 </p1>
-        </div>
+        </span></div>
+            </div>
     </section>
 
 
