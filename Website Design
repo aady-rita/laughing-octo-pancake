@@ -169,8 +169,9 @@
             <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe-500x500.jpg" alt="Fluffy American Pancakes"/>
             <h1>Fluffy Pancakes</h1>
          
-            <div class="popup" onclick="myFunction()">Click me for details
-                <span class="popuptext" id="myPopup"> <p><b>Fluffy pancakes made with simple ingredients.</b></p>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
+                    <p><b>Fluffy pancakes made with simple ingredients.</b></p>
                 
                     <p1> 1 ½ cups all-purpose flour
                      3 ½ teaspoons baking powder
@@ -197,6 +198,8 @@
         <div class="recipe-card">
             <img src="https://www.dontgobaconmyheart.co.uk/wp-content/uploads/2021/08/creamy-mac-and-cheese.jpg" alt="Recipe 2">
             <h3>Mac and Cheese</h3>
+            <div class="popup" onclick="myFunction()">View Recipe
+                <span class="popuptext" id="myPopup"> 
             <p><b>A cheesy and creamy classic favorite.</b</p>
             <p1>4 c. dried macaroni
                 1 egg
@@ -212,7 +215,9 @@
                 Cook the macaroni until very firm.The macaroni should be too firm to eat right out of the pot. Beat the egg in a small bowl. Melt the butter in a large pot and sprinkle in the flour.
                  Whisk together over medium-low heat. Cook the mixture for 5 minutes, whisking constantly. Don't let it burn. Pour in the milk, add the mustard, and whisk until smooth. Cook for 5 minutes until very thick. Reduce the heat to low.Take 1/4 cup of the sauce and slowly pour it into the beaten egg, whisking constantly to avoid cooking the egg. Whisk together till smooth. Pour the egg mixture into the sauce, whisking constantly. Stir until smooth. 
                 Add in the cheese and stir to melt. Add the salt, seasoned salt, pepper, and other optional seasonings.Taste the sauce, adding more salt and seasoned salt as needed. (Do not under-salt!)  Pour in the drained, cooked macaroni and stir to combine. Pour into a buttered baking dish, top with extra cheese, and bake at 350°F for 20 to 25 minutes, then serve.</p1>
+        </span>
         </div>
+            </div>
         <!-- Recipe 3 -->
         <div class="recipe-card">
             <img src="https://theyummybowl.com/wp-content/uploads/Crispy-Chicken-Wrap-feat-1.jpg" alt="Recipe 3">
