@@ -169,7 +169,7 @@
             <img src="https://www.howtocook.recipes/wp-content/uploads/2020/09/pancake-recipe-500x500.jpg" alt="Fluffy American Pancakes"/>
             <h1>Fluffy Pancakes</h1>
             <div class="popup" onclick="myFunction()">Click me for details
-                <span id="myPopup"> <p><b>Fluffy pancakes made with simple ingredients.</b></p>
+                <span class="popuptext" id="myPopup"> <p><b>Fluffy pancakes made with simple ingredients.</b></p>
                 
                     <p1> 1 ½ cups all-purpose flour
                      3 ½ teaspoons baking powder
